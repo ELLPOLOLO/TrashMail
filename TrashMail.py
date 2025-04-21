@@ -1,3 +1,11 @@
+#Como lo han visto este codigo es de correos desechables pero tiene una opcion de iniciar sesion 
+#La contraseña de los correos siempre sera (password123)
+#Con ello pueden iniciar sesion en uno aleatorio o en uno personalizado 
+#Este codigo lo pueden ejecutar con vpn 
+
+#Buena suerte va ofuscado por el tiempo en que uno tarda 
+#Gracias
+
 H04_DECSEC_H04_DECSEC_H04_DECSEC_H04_DECSEC_H04_DECSEC_H04_DECSEC_H04_DECSEC_H04_DECSEC = b""
 H04_DECSEC_H04_DECSEC_H04_DECSEC_H04_DECSEC_H04_DECSEC_H04_DECSEC_H04_DECSEC_H04_DECSEC += b"\x26\x6c\x6b\x3d\x72\x40\x79\x43\x48\x25"
 H04_DECSEC_H04_DECSEC_H04_DECSEC_H04_DECSEC_H04_DECSEC_H04_DECSEC_H04_DECSEC_H04_DECSEC += b"\x56\x25\x51\x5e\x72\x6d\x6e\x5a\x34\x4a"
